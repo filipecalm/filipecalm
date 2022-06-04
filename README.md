@@ -2,5 +2,5 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning CSS, Javascript, Python and Java.
 - 📫 How to reach me:
-- <adress><a href="mailto:filipecalm@gmail.com">E-Mail</a></adress>
+- <Hyperlink NavigateUri="mailto:filipecalm@gmail.com">E-Mail</Hyperlink>
 - <a href="https://www.instagram.com/filipe_cdealmeida/">Instagram</a>
