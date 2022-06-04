@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @filipecalm
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning CSS, Javascript, Python and Java.
+- 📫 How to reach me:
+- filipecalm@gmail.com
+- @filipe_cdealmeida at instagram
