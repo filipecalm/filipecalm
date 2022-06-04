@@ -2,5 +2,5 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning CSS, Javascript, Python and Java.
 - 📫 How to reach me:
-- filipecalm@gmail.com
+- <a mailto:filipecalm@gmail.com>E-mail</a>
 - <a href="https://www.instagram.com/filipe_cdealmeida/">Instagram</a>
