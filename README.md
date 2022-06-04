@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning CSS, Javascript, Python and Java.
 - 📫 How to reach me:
 - filipecalm@gmail.com
-- <link href="https://www.instagram.com/filipe_cdealmeida/">Instagram</link>
+- <a href="https://www.instagram.com/filipe_cdealmeida/">Instagram</a>
