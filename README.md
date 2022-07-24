@@ -7,3 +7,5 @@
 - 📫 How to reach me:
 - filipecalm@gmail.com
 - <a href="https://www.instagram.com/filipe_cdealmeida/">Instagram</a>
+
+Finalista do Hiring Coders #3
