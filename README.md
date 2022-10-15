@@ -5,7 +5,7 @@
   <em>
     🥉 Finalista e terceiro colocado do Hiring Coders #3<br>
     📚 Cursando Análise e Desenvolvimento de Sistemas<br>
-    📚 Atualmente estou estudando Javascript, Python and Java.<br><br>
+    📚 Atualmente estou estudando Javascript e React.<br><br>
     🧡 Sou apenas um cara que ama tecnologia e que gostaria de deixar minha marca no mundo através da programação.
   </em>
 </p>
