@@ -9,6 +9,14 @@
     🧡 Sou apenas um cara que ama tecnologia e que gostaria de deixar minha marca no mundo através da programação.
   </em>
 </p>
+
+### Meu portfólio:
+<div style="display: inline_block">
+  <a href="https://portfolio-filipecalm.netlify.app" target="_newtab">
+    <img align="center" alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white />
+  </a>
+</div>
+                                           
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,9 +35,9 @@
 <br>
 
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/filipecalm" target="_newtab"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_newtab"></a>
-  <a href="https://www.instagram.com/filipe_cdealmeida/" target="_newtab"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_newtab"></a>
-   <a href="https://www.facebook.com/filipecalmeida/" target="_newtab"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_newtab"></a>
+  <a href="https://www.linkedin.com/in/filipecalm" target="_newtab"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/filipe_cdealmeida/" target="_newtab"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://www.facebook.com/filipecalmeida/" target="_newtab"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div>
 <br>
 
