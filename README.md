@@ -46,7 +46,7 @@
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipecalm&repo=e-commerce-vtex)](https://github.com/filipecalm/e-commerce-vtex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipecalm&repo=flashlight)](https://github.com/filipecalm/flashlight)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipecalm&repo=genius-game)](https://github.com/filipecalm/genius-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipecalm&repo=novo-portfolio)](https://github.com/filipecalm/novo-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipecalm&repo=flashlight)](https://github.com/filipecalm/sport-gear-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipecalm&repo=genius-game)](https://github.com/filipecalm/clinica-la-vie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipecalm&repo=novo-portfolio)](https://github.com/filipecalm/portfolio)
 
