@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o Filipe Almeida</h1>
+<h1>Olá! Meu nome é Filipe Almeida!</h1>
 
 ### 👋 Sobre mim:
 <p>
