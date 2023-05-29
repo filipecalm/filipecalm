@@ -34,7 +34,6 @@
 <br>
 
 <div style="display: inline_block">
-<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=filipecalm&show_icons=true&theme=radical"></img>
 <img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecalm&layout=compact&theme=radical"></img>
 </div>
 
