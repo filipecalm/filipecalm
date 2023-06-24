@@ -41,7 +41,7 @@
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/filipecalm" target="_newtab"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/filipe_cdealmeida/" target="_newtab"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/filipecalm/" target="_newtab"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://www.facebook.com/filipecalmeida/" target="_newtab"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div>
 <br>
