@@ -5,7 +5,7 @@
   <em>
     🥉 Finalista e terceiro colocado do Hiring Coders #3<br>
     📚 Cursando Análise e Desenvolvimento de Sistemas<br>
-    📚 Atualmente estou estudando Javascript e React.<br><br>
+    📚 Atualmente estou estudando Python, Javascript e React.<br><br>
     🧡 Sou apenas um cara que ama tecnologia e que gostaria de deixar minha marca no mundo através da programação.
   </em>
 </p>
@@ -29,14 +29,11 @@
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <br>
 </div>
 <br>
-
-<div style="display: inline_block">
-<img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecalm&layout=compact&theme=radical"></img>
-</div>
-
 <br>
 
 <div style="display: inline_block">
@@ -45,9 +42,3 @@
    <a href="https://www.facebook.com/filipecalmeida/" target="_newtab"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div>
 <br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipecalm&repo=e-commerce-vtex)](https://github.com/filipecalm/e-commerce-vtex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipecalm&repo=sport-gear-project)](https://github.com/filipecalm/sport-gear-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipecalm&repo=clinica-la-vie)](https://github.com/filipecalm/clinica-la-vie)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipecalm&repo=todo-list)](https://github.com/filipecalm/todo-list)
-
