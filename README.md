@@ -12,7 +12,7 @@
 
 ### Meu portfólio:
 <div style="display: inline_block">
-  <a href="https://genius-game.netlify.app" target="_blank" rel="noopener noreferrer">
+  <a href="filipealmeida.tech" target="_blank" rel="noopener noreferrer">
     <img align="center" alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </div>
